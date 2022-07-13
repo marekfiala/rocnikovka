@@ -1,8 +1,8 @@
-import "App.css";
+import "./App.css";
 import { Routes, Route, Link } from "react-router-dom";
 import MatchPage from "./Pages/MatchPage";
 import HomePage from "./Pages/HomePage";
-import ErrorPage from "Pages/ErrorPage";
+import ErrorPage from "./Pages/ErrorPage";
 
 function App() {
   return (
